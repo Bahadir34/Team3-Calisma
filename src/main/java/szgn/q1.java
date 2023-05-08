@@ -1,5 +1,7 @@
 package szgn;
 
-public class q1 {
+public class q1 
+{
     //sadakat
+
 }
