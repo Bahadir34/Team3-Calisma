@@ -4,7 +4,7 @@ import org.w3c.dom.ls.LSOutput;
 
 public class q1 {
     public static void main(String[] args) {
-        System.out.println("güzen günler");
+        System.out.println("güzel günler");
 
     }
 }
