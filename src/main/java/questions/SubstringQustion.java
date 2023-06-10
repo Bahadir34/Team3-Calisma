@@ -1,2 +1,4 @@
-package questions;public class SubstringQustion {
+package questions;
+public class SubstringQustion
+{
 }
