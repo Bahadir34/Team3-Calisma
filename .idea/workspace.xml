@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29950788-53c6-429d-94a1-68700922463d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/AnagramQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/questions/PalindromeControl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/questions/SubstringQustion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/questions/SubstringQustion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,10 +50,36 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/fazil/IdeaProjects/Team3-Calisma/src/main/java/questions&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/monster/IdeaProjects/Batch151&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AnagramQuestion">
+    <configuration name="AnagramQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questions.AnagramQuestion" />
+      <module name="Team3-Calisma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="questions.PalindromeControl" />
+      <module name="Team3-Calisma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SubstringQustion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="questions.SubstringQustion" />
       <module name="Team3-Calisma" />
@@ -61,6 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnagramQuestion" />
+        <item itemvalue="Application.PalindromeControl" />
         <item itemvalue="Application.SubstringQustion" />
       </list>
     </recent_temporary>
